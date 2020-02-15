@@ -1,0 +1,10 @@
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Ogrenci_İndirim\Ogrenci_İndirim\bin\Debug\Ogrenci_İndirim.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Ogrenci_İndirim\Ogrenci_İndirim\bin\Debug\Ogrenci_İndirim.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Ogrenci_İndirim\Ogrenci_İndirim\bin\Debug\Ogrenci_İndirim.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Ogrenci_İndirim\Ogrenci_İndirim\obj\Debug\Ogrenci_İndirim.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Ogrenci_İndirim\Ogrenci_İndirim\obj\Debug\Ogrenci_İndirim.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Ogrenci_İndirim\Ogrenci_İndirim\obj\Debug\Ogrenci_İndirim.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Ogrenci_İndirim\Ogrenci_İndirim\obj\Debug\Ogrenci_İndirim.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Ogrenci_İndirim\Ogrenci_İndirim\obj\Debug\Ogrenci_İndirim.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Ogrenci_İndirim\Ogrenci_İndirim\obj\Debug\Ogrenci_İndirim.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\Ogrenci_İndirim\Ogrenci_İndirim\obj\Debug\Ogrenci_İndirim.pdb
